@@ -1,2 +1,2 @@
 # YeminusBack
-# Url de aplciación : http://149.56.228.41/YeminusApp/
+# Url de apliciación : http://149.56.228.41/YeminusApp/
